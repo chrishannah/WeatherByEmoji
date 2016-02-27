@@ -9,4 +9,4 @@ It's a basic static HTML/CSS/JS website, that uses the [simpleWeather.js framewo
 
 Please have some fun!
 
-**Check it out on [Product Hunt!](https://www.producthunt.com/tech/weather-by-emoji)
+**Check it out on [Product Hunt!](https://www.producthunt.com/tech/weather-by-emoji)**
