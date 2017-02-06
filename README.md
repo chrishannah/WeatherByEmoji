@@ -1,3 +1,5 @@
+**Support Me** - If you like what I'm doing, then help a student continue by donating a coffee! [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/ChrisHannah/5)
+
 # WeatherByEmoji
 Easily check the weather and view it as a simple Emoji. You can either let it get the weather for your current location, or enter a location yourself.
 
