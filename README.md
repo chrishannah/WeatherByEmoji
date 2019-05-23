@@ -1,12 +1,10 @@
-**Support Me** - If you like what I'm doing, then help a student continue by donating a coffee! <a href="https://www.patreon.com/bePatron?u=5214284" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://cdn6.patreon.com/becomePatronButton.bundle.js"></script>
-
 # WeatherByEmoji
 Easily check the weather and view it as a simple Emoji. You can either let it get the weather for your current location, or enter a location yourself.
 
 # How does it work?
 It's a basic static HTML/CSS/JS website, that uses the [simpleWeather.js framework](http://simpleweatherjs.com) to get the weather [data from Yahoo](https://developer.yahoo.com/weather/documentation.html#codes). It's all pretty simple, but it's just for fun.
 
-#Screenshot
+# Screenshot
 ![WeatherByEmoji](https://raw.githubusercontent.com/cryptixdevelopment/WeatherByEmoji/master/Screenshot.png)
 
 Please have some fun!
